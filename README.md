@@ -9,6 +9,7 @@
 - 📫 How to reach me: send me a message on one of the links below
 - ⚡ Fun fact: I enjoy making loud noises and the outdoors
 
+---
 
 ### Connect with me:
 
@@ -18,6 +19,8 @@
 [<img align="left" alt="jdfthetech | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
+---
 
 ### Languages and Tools:
 
@@ -33,6 +36,9 @@
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][website]
 
 <br />
+
+---
+
 [website]: https://onlinemarketspecialist.com
 [twitter]: https://twitter.com/jdfthetech
 [instagram]: https://instagram.com/jdfthetech
