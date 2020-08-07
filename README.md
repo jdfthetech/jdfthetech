@@ -55,5 +55,5 @@
 [python]: https://www.python.org/
 
 
-<img align="left" alt="JDFtheTech's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jdfthetech&show_icons=true&hide_border=true" />
+
 
