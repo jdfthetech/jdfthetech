@@ -41,7 +41,7 @@
 ---
 
 [website]: https://onlinemarketspecialist.com
-[website]: https://kumimanu.dev
+[bussite]: https://kumimanu.dev
 [twitter]: https://twitter.com/jdfthetech
 [instagram]: https://instagram.com/jdfthetech
 [linkedin]: https://linkedin.com/in/jdfthetech
