@@ -3,13 +3,16 @@
 ## I'm just a developer and linux nerd
 
 - 🔭 I’m currently working on python projects for business applications as well as various open source projects
-- 🌱 I’m currently learning tensorflow and machine learning
+- 🌱 I’m currently learning tensorflow and rust
 - 👯 I’m looking to collaborate on any project that interests me
 - 💬 Ask me about my favorite hot sauce
 - 📫 How to reach me: send me a message on one of the links below
 - ⚡ Fun fact: I enjoy making loud noises and the outdoors
 
 ---
+### BlindArch
+
+I have been working quite a bit on [ BlindArch ][blindarch] a menu driven accessible Arch linux install for those with low vision and the blind.
 
 ### Connect with me:
 
@@ -55,6 +58,7 @@
 [github]: https://github.com/
 [terminal]: http://linuxcommand.org/
 [python]: https://www.python.org/
+[blindarch]: https://github.com/blind-computing/blindarch
 
 
 
