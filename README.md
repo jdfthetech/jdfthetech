@@ -3,7 +3,7 @@
 ## I'm just a developer and linux nerd
 
 - 🔭 I’m currently working on python projects for business applications as well as various open source projects
-- 🌱 I’m currently learning tensorflow and rust
+- 🌱 I’m currently learning C++ and lua
 - 👯 I’m looking to collaborate on any project that interests me
 - 💬 Ask me about my favorite hot sauce
 - 📫 How to reach me: send me a message on one of the links below
@@ -12,7 +12,11 @@
 ---
 ### BlindArch
 
-I have been working quite a bit on [ BlindArch ][blindarch] a menu driven accessible Arch linux install for those with low vision and the blind.
+The [ BlindArch ][blindarch] development was put on hold after the regular Arch team implemented many changes that made it into release.  Now that the regular installs are accessible this is not needed.  If you find a problem with accessibility in the Arch distro let me know.
+
+### Agentic Engineering - 'vibe coding'
+
+I have been experimenting with agentic engineering.  While this is controversial, I am finding it very useful as a tool to create boiler plate and then modify code to my liking.  It speeds development and lessens my time learning how new languages work by seeing correct syntax for basic functions and methods.
 
 ### Connect with me:
 
@@ -46,7 +50,7 @@ I have been working quite a bit on [ BlindArch ][blindarch] a menu driven access
 [website]: https://onlinemarketspecialist.com
 [bussite]: https://kumimanu.dev
 [twitter]: https://twitter.com/jdfthetech
-[instagram]: https://instagram.com/jdfthetech
+[instagram]: https://instagram.com/jd_flick
 [linkedin]: https://linkedin.com/in/jdfthetech
 [vscode]: https://code.visualstudio.com/
 [html5]: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
